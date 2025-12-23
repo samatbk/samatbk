@@ -1,1 +1,2 @@
-Hayat bitti
+github kullanmayin.
+https://codeberg.org/samatbk
